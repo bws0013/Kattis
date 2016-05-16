@@ -1,0 +1,1 @@
+The files in this repository are problems solved through kattis (open.kattis.com). If there are multiple java files in a directory both are required to run the program as one of them generally is the preferred set of methods for reading in inputs given by the site. 
