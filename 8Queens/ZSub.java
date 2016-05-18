@@ -2,6 +2,7 @@ import java.util.*;
 import java.math.*;
 import java.io.*;
 
+// https://open.kattis.com/problems/8queens
 
 public class ZSub {
     

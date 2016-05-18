@@ -2,6 +2,8 @@ import java.math.*;
 import java.util.*;
 import java.io.*;
 
+// https://open.kattis.com/problems/trollhunt
+
 public class ArmyStr {
 	
 

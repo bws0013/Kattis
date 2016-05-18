@@ -2,6 +2,8 @@ import java.util.*;
 import java.io.*;
 import java.math.*;
 
+// https://open.kattis.com/problems/guess
+
 public class KattioSub {
 	
 
